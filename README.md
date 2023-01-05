@@ -1,9 +1,9 @@
-# KelanRaff.github.io
+# Emerging Technology Jupyter Notebooks
 
 A Project focused on studying new and emerging technologies within the world of programming.
 
 ## Important:
-[I'm an inline-style link with title](https://kelanraff.github.io/jupyterlite-EmergingTech/ "JupyterLite Instance")
+JupyterLite instance hosted here :
 https://kelanraff.github.io/jupyterlite-EmergingTech/
 
 All Learning outcomes will be completed and shown in this repository using a JupyterLite instance accessible through downing this repository using its URL.
